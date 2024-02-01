@@ -1,0 +1,4 @@
+--The file contains automation testing of login test case OrangeHRM.
+--inside fixture folder there is json data file with login credentials
+--first clone the code then run npm init -y to install the node modules then run npx cypress run 
+--it will display the report log in terminal
